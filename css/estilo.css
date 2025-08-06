@@ -179,7 +179,7 @@ html, body{
     background-color: #c183c1;
     color: #ffffff;
     height: 55px;
-    width: 40%;
+    width: 60%;
     border-radius: 13px;
     margin-left: auto;
     margin-right: auto;
@@ -192,7 +192,7 @@ html, body{
     background-color: #9db7b7;
     color: #000000;
     height: 55px;
-    width: 40%;
+    width: 60%;
     border-radius: 13px;
     margin-left: auto;
     margin-right: auto;
@@ -214,4 +214,5 @@ html, body{
     color: #8f5d00;
     padding: 20px;
     font-size: 25px;
+
 }
